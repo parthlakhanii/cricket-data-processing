@@ -1,0 +1,118 @@
+,Date,team1_name,team2_name,winning_team,loosing_team,win_margin
+0,14-01-2018,England,Australia,England,Australia,5 wickets
+1,07-03-2018,England,New Zealand,New Zealand,England,5 wickets
+2,14-07-2018,England,India,England,India,86 runs
+3,24-06-2018,England,Australia,England,Australia,1 wickets
+4,10-06-2018,England,Scotland,Scotland,England,6 runs
+5,21-06-2018,England,Australia,England,Australia,6 wickets
+6,17-07-2018,England,India,England,India,8 wickets
+7,13-10-2018,England,Sri Lanka,England,Sri Lanka,31 runs
+8,25-02-2018,England,New Zealand,New Zealand,England,3 wickets
+9,26-01-2018,England,Australia,Australia,England,3 wickets
+10,23-10-2018,England,Sri Lanka,Sri Lanka,England,219 runs
+11,28-02-2018,England,New Zealand,England,New Zealand,6 wickets
+12,17-10-2018,England,Sri Lanka,England,Sri Lanka,7 wickets
+13,03-03-2018,England,New Zealand,England,New Zealand,4 runs
+14,20-10-2018,England,Sri Lanka,England,Sri Lanka,18 runs
+15,01-02-2018,South Africa,India,India,South Africa,6 wickets
+16,06-10-2018,South Africa,Zimbabwe,South Africa,Zimbabwe,4 wickets
+17,03-10-2018,South Africa,Zimbabwe,South Africa,Zimbabwe,120 runs
+18,12-08-2018,South Africa,Sri Lanka,Sri Lanka,South Africa,178 runs
+19,29-07-2018,South Africa,Sri Lanka,South Africa,Sri Lanka,5 wickets
+20,30-09-2018,South Africa,Zimbabwe,South Africa,Zimbabwe,5 wickets
+21,08-08-2018,South Africa,Sri Lanka,Sri Lanka,South Africa,3 runs
+22,04-02-2018,South Africa,India,India,South Africa,9 wickets
+23,11-12-2018,West Indies,Bangladesh,West Indies,Bangladesh,4 wickets
+24,25-07-2018,West Indies,Bangladesh,West Indies,Bangladesh,3 runs
+25,19-03-2018,West Indies,Zimbabwe,West Indies,Zimbabwe,4 wickets
+26,28-07-2018,West Indies,Bangladesh,Bangladesh,West Indies,18 runs
+27,21-03-2018,West Indies,Scotland,West Indies,Scotland,5 runs
+28,29-10-2018,West Indies,India,India,West Indies,224 runs
+29,25-03-2018,West Indies,Afghanistan,Afghanistan,West Indies,7 wickets
+30,09-12-2018,West Indies,Bangladesh,Bangladesh,West Indies,5 wickets
+31,01-11-2018,West Indies,India,India,West Indies,9 wickets
+32,06-01-2018,New Zealand,Pakistan,New Zealand,Pakistan,61 runs
+33,09-01-2018,New Zealand,Pakistan,New Zealand,Pakistan,8 wickets
+34,07-11-2018,New Zealand,Pakistan,New Zealand,Pakistan,47 runs
+35,19-09-2018,India,Pakistan,India,Pakistan,8 wickets
+36,28-09-2018,India,Bangladesh,India,Bangladesh,3 wickets
+37,13-07-2018,Pakistan,Zimbabwe,Pakistan,Zimbabwe,201 runs
+38,16-07-2018,Pakistan,Zimbabwe,Pakistan,Zimbabwe,9 wickets
+39,26-09-2018,Pakistan,Bangladesh,Bangladesh,Pakistan,37 runs
+40,18-07-2018,Pakistan,Zimbabwe,Pakistan,Zimbabwe,9 wickets
+41,17-01-2018,Sri Lanka,Zimbabwe,Zimbabwe,Sri Lanka,12 runs
+42,27-01-2018,Sri Lanka,Bangladesh,Sri Lanka,Bangladesh,79 runs
+43,17-09-2018,Sri Lanka,Afghanistan,Afghanistan,Sri Lanka,91 runs
+44,15-09-2018,Sri Lanka,Bangladesh,Bangladesh,Sri Lanka,137 runs
+45,11-02-2018,Zimbabwe,Afghanistan,Zimbabwe,Afghanistan,154 runs
+46,15-01-2018,Zimbabwe,Bangladesh,Bangladesh,Zimbabwe,8 wickets
+47,09-02-2018,Zimbabwe,Afghanistan,Afghanistan,Zimbabwe,154 runs
+48,19-02-2018,Zimbabwe,Afghanistan,Afghanistan,Zimbabwe,146 runs
+49,20-09-2018,Bangladesh,Afghanistan,Afghanistan,Bangladesh,136 runs
+50,18-01-2018,Ireland,Scotland,Ireland,Scotland,24 runs
+51,29-08-2018,Ireland,Afghanistan,Ireland,Afghanistan,3 wickets
+52,23-03-2018,Ireland,Afghanistan,Afghanistan,Ireland,5 wickets
+53,27-08-2018,Ireland,Afghanistan,Afghanistan,Ireland,29 runs
+54,31-08-2018,Ireland,Afghanistan,Afghanistan,Ireland,8 wickets
+55,04-03-2018,Scotland,Afghanistan,Scotland,Afghanistan,7 wickets
+56,02-07-2018,Australia,Pakistan,Australia,Pakistan,9 wickets
+57,21-11-2018,Australia,India,Australia,India,4 runs
+58,03-02-2018,Australia,New Zealand,Australia,New Zealand,7 wickets
+59,17-11-2018,Australia,South Africa,South Africa,Australia,21 runs
+60,05-07-2018,Australia,Pakistan,Pakistan,Australia,45 runs
+61,25-11-2018,Australia,India,India,Australia,6 wickets
+62,23-11-2018,Australia,India,England,Sri Lanka,42 runs
+63,28-10-2018,Australia,Pakistan,Pakistan,Australia,33 runs
+64,09-10-2018,South Africa,Zimbabwe,South Africa,Zimbabwe,34 runs
+65,24-02-2018,South Africa,India,India,South Africa,7 runs
+66,14-08-2018,South Africa,Sri Lanka,Sri Lanka,South Africa,3 wickets
+67,22-12-2018,West Indies,Bangladesh,West Indies,Bangladesh,50 runs
+68,17-12-2018,West Indies,Bangladesh,West Indies,Bangladesh,8 wickets
+69,03-04-2018,West Indies,Pakistan,Pakistan,West Indies,8 wickets
+70,20-12-2018,West Indies,Bangladesh,Bangladesh,West Indies,36 runs
+71,03-01-2018,West Indies,New Zealand,New Zealand,West Indies,119 runs
+72,04-08-2018,West Indies,Bangladesh,Bangladesh,West Indies,12 runs
+73,02-04-2018,West Indies,Pakistan,Pakistan,West Indies,82 runs
+74,31-07-2018,West Indies,Bangladesh,West Indies,Bangladesh,7 wickets
+75,01-04-2018,West Indies,Pakistan,Pakistan,West Indies,143 runs
+76,31-10-2018,New Zealand,Pakistan,Pakistan,New Zealand,2 runs
+77,22-01-2018,New Zealand,Pakistan,New Zealand,Pakistan,7 wickets
+78,02-11-2018,New Zealand,Pakistan,Pakistan,New Zealand,6 wickets
+79,14-03-2018,India,Bangladesh,India,Bangladesh,17 runs
+80,29-06-2018,India,Ireland,India,Ireland,143 runs
+81,01-07-2018,Pakistan,Zimbabwe,Pakistan,Zimbabwe,74 runs
+82,15-02-2018,Sri Lanka,Bangladesh,Sri Lanka,Bangladesh,6 wickets
+83,06-02-2018,Zimbabwe,Afghanistan,Afghanistan,Zimbabwe,17 runs
+84,05-02-2018,Zimbabwe,Afghanistan,Afghanistan,Zimbabwe,5 wickets
+85,20-06-2018,Netherlands,Scotland,Scotland,Netherlands,115 runs
+86,07-06-2018,Bangladesh,Afghanistan,Afghanistan,Bangladesh,1 runs
+87,05-06-2018,Bangladesh,Afghanistan,Afghanistan,Bangladesh,6 wickets
+88,03-06-2018,Bangladesh,Afghanistan,Afghanistan,Bangladesh,45 runs
+89,20-08-2018,Ireland,Afghanistan,Afghanistan,Ireland,16 runs
+90,22-08-2018,Ireland,Afghanistan,Afghanistan,Ireland,81 runs
+91,07-09-2018,England,India,England,India,118 runs
+92,09-08-2018,England,India,England,India,inns & 159 runs
+93,14-11-2018,England,Sri Lanka,England,Sri Lanka,57 runs
+94,18-08-2018,England,India,India,England,203 runs
+95,30-03-2018,England,New Zealand,South Africa,Australia,492 runs
+96,04-01-2018,England,Australia,Australia,England,inns & 123 runs
+97,01-06-2018,England,Pakistan,England,Pakistan,inns & 55 runs
+98,30-08-2018,England,India,England,India,60 runs
+99,24-05-2018,England,Pakistan,Pakistan,England,9 wickets
+100,01-03-2018,Australia,South Africa,Australia,South Africa,118 runs
+101,09-03-2018,Australia,South Africa,South Africa,Australia,6 wickets
+102,06-12-2018,Australia,India,India,Australia,31 runs
+103,16-10-2018,Australia,Pakistan,Pakistan,Australia,373 runs
+104,24-01-2018,South Africa,India,India,South Africa,63 runs
+105,05-01-2018,South Africa,India,South Africa,India,72 runs
+106,06-06-2018,West Indies,Sri Lanka,West Indies,Sri Lanka,226 runs
+107,30-11-2018,West Indies,Bangladesh,Bangladesh,West Indies,inns & 184 runs
+108,04-10-2018,West Indies,India,India,West Indies,inns & 272 runs
+109,23-06-2018,West Indies,Sri Lanka,Sri Lanka,West Indies,4 wickets
+110,22-11-2018,West Indies,Bangladesh,Bangladesh,West Indies,64 runs
+111,03-12-2018,New Zealand,Pakistan,New Zealand,Pakistan,123 runs
+112,24-11-2018,New Zealand,Pakistan,Pakistan,New Zealand,inns & 16 runs
+113,16-11-2018,New Zealand,Pakistan,New Zealand,Pakistan,4 runs
+114,11-05-2018,Pakistan,Ireland,Pakistan,Ireland,5 wickets
+115,08-02-2018,Sri Lanka,Bangladesh,Sri Lanka,Bangladesh,215 runs
+116,03-11-2018,Zimbabwe,Bangladesh,Zimbabwe,Bangladesh,151 runs
